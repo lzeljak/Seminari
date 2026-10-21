@@ -1,0 +1,19 @@
+﻿  Seminar.c
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(6,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(105,18): warning C4129: '-': unrecognized character escape sequence
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(109,18): warning C4129: '-': unrecognized character escape sequence
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(113,18): warning C4476: 'sscanf' : unknown type field character '.' in format specifier
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(113,27): warning C4474: 'sscanf' : too many arguments passed for format string
+  C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(113,27):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(121,19): warning C4129: '-': unrecognized character escape sequence
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(137,18): warning C4129: '-': unrecognized character escape sequence
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(139,18): warning C4129: '-': unrecognized character escape sequence
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(442,20): warning C4129: '-': unrecognized character escape sequence
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(453,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\source\repos\Seminar\Seminar\Seminar.c(522,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Seminar.vcxproj -> C:\Users\PC\source\repos\Seminar\x64\Debug\Seminar.exe
